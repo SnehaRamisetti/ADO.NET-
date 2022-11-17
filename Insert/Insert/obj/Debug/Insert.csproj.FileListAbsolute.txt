@@ -1,0 +1,8 @@
+C:\Users\snehaVM\source\repos\Insert\Insert\bin\Debug\Insert.exe.config
+C:\Users\snehaVM\source\repos\Insert\Insert\bin\Debug\Insert.exe
+C:\Users\snehaVM\source\repos\Insert\Insert\bin\Debug\Insert.pdb
+C:\Users\snehaVM\source\repos\Insert\Insert\obj\Debug\Insert.csproj.AssemblyReference.cache
+C:\Users\snehaVM\source\repos\Insert\Insert\obj\Debug\Insert.csproj.SuggestedBindingRedirects.cache
+C:\Users\snehaVM\source\repos\Insert\Insert\obj\Debug\Insert.csproj.CoreCompileInputs.cache
+C:\Users\snehaVM\source\repos\Insert\Insert\obj\Debug\Insert.exe
+C:\Users\snehaVM\source\repos\Insert\Insert\obj\Debug\Insert.pdb
