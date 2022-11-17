@@ -1,0 +1,8 @@
+C:\Users\snehaVM\source\repos\ADO\ADO\bin\Debug\ADO.exe.config
+C:\Users\snehaVM\source\repos\ADO\ADO\bin\Debug\ADO.exe
+C:\Users\snehaVM\source\repos\ADO\ADO\bin\Debug\ADO.pdb
+C:\Users\snehaVM\source\repos\ADO\ADO\obj\Debug\ADO.csproj.AssemblyReference.cache
+C:\Users\snehaVM\source\repos\ADO\ADO\obj\Debug\ADO.csproj.SuggestedBindingRedirects.cache
+C:\Users\snehaVM\source\repos\ADO\ADO\obj\Debug\ADO.csproj.CoreCompileInputs.cache
+C:\Users\snehaVM\source\repos\ADO\ADO\obj\Debug\ADO.exe
+C:\Users\snehaVM\source\repos\ADO\ADO\obj\Debug\ADO.pdb
